@@ -102,6 +102,11 @@ MyFitnessPal, one of the largest fitness communities that helps people achieve a
 
 In conclusion, Apache Spark has seen immense growth over the past several years, becoming the most effective data processing and AI engine in enterprises today due to its speed, ease of use, and sophisticated analytics. Spark helps to simplify the challenging and computationally intensive task of processing high volumes of real-time data, both structured and unstructured.
 
+### Published
+[Explore big data analysis with Apache Spark](https://developer.ibm.com/articles/introduction-to-big-data-analysis-with-pyspark/?mhsrc=ibmsearch_a&mhq=big%20data)
+
+### Webinar
+[Introduction to Big Data Analysis & Machine Learning in Python with PySpark](https://www.crowdcast.io/e/python-pyspark)
 
 ### Resources:
 1.	https://databricks.com/spark/about
